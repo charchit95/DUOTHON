@@ -1,3 +1,2 @@
 # DUOTHON
-## Deployed Link 
-https://duothonfashionblog.netlify.app/
+## <a href="https://duothonfashionblog.netlify.app/">👉👉👉👉 Deployed Link</a>
